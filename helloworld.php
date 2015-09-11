@@ -12,9 +12,9 @@
 
 <?php
 
-	$age = "20"
+	$age = "5";
 	
-	if($age > 18){
+	if( $age >= 18){
 		echo "t2isealine";
 		
 		
